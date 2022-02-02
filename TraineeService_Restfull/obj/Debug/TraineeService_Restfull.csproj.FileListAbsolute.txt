@@ -1,0 +1,13 @@
+F:\IDB_R46_Jashim\WCF\20220130_H_with_Wcf\20220130_H\WcfPractice\TraineeService_Restfull\bin\TraineeService_Restfull.dll.config
+F:\IDB_R46_Jashim\WCF\20220130_H_with_Wcf\20220130_H\WcfPractice\TraineeService_Restfull\bin\TraineeService_Restfull.dll
+F:\IDB_R46_Jashim\WCF\20220130_H_with_Wcf\20220130_H\WcfPractice\TraineeService_Restfull\bin\TraineeService_Restfull.pdb
+F:\IDB_R46_Jashim\WCF\20220130_H_with_Wcf\20220130_H\WcfPractice\TraineeService_Restfull\bin\EntityFramework.dll
+F:\IDB_R46_Jashim\WCF\20220130_H_with_Wcf\20220130_H\WcfPractice\TraineeService_Restfull\bin\EntityFramework.SqlServer.dll
+F:\IDB_R46_Jashim\WCF\20220130_H_with_Wcf\20220130_H\WcfPractice\TraineeService_Restfull\bin\EntityFramework.xml
+F:\IDB_R46_Jashim\WCF\20220130_H_with_Wcf\20220130_H\WcfPractice\TraineeService_Restfull\bin\EntityFramework.SqlServer.xml
+F:\IDB_R46_Jashim\WCF\20220130_H_with_Wcf\20220130_H\WcfPractice\TraineeService_Restfull\obj\Debug\TraineeService_Restfull.csproj.CoreCompileInputs.cache
+F:\IDB_R46_Jashim\WCF\20220130_H_with_Wcf\20220130_H\WcfPractice\TraineeService_Restfull\obj\Debug\TraineeService_Restfull.csproj.CopyComplete
+F:\IDB_R46_Jashim\WCF\20220130_H_with_Wcf\20220130_H\WcfPractice\TraineeService_Restfull\obj\Debug\TraineeService_Restfull.dll
+F:\IDB_R46_Jashim\WCF\20220130_H_with_Wcf\20220130_H\WcfPractice\TraineeService_Restfull\obj\Debug\TraineeService_Restfull.pdb
+F:\IDB_R46_Jashim\WCF\20220130_H_with_Wcf\20220130_H\WcfPractice\TraineeService_Restfull\obj\Debug\TraineeService_Restfull.Migrations.InitialCreate.resources
+F:\IDB_R46_Jashim\WCF\20220130_H_with_Wcf\20220130_H\WcfPractice\TraineeService_Restfull\obj\Debug\TraineeService_Restfull.csproj.GenerateResource.cache
